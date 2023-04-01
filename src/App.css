@@ -1,0 +1,28 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+.main{
+  margin-top: 80px;
+}
+.container{
+  width: 98%;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+a{
+  text-decoration: none;
+}
+ul{
+  list-style-type: none;
+}
+.bodyContent {
+  width: calc(100% - 300px);
+}
+
+@media only screen and (max-width: 730px){
+  .bodyContent {
+    width: 100%;
+  }
+}

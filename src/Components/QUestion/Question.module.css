@@ -1,0 +1,26 @@
+.question {
+    margin-top: 50px;
+    padding-bottom: 20px;
+}
+.item {
+    padding: 30px 10px;
+    background: #fafafa;
+    margin: 20px 0;
+    border-radius: 8px;
+}
+.item p {
+    margin-top: 15px;
+}
+
+.code {
+    background: #0F172A;
+    padding: 20px 10px;
+    border-radius: 10px;
+    margin-top: 15px;
+}
+.code code {
+    color: #fff;
+    font-size: 16px;
+    display: block;
+    margin: 5px 0;
+}

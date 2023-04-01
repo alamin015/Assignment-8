@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "img": "https://raw.githubusercontent.com/alamin015/imgHosting/main/img1.png",
+    "author_img": "https://raw.githubusercontent.com/alamin015/imgHosting/main/author/author2.png",
+    "author_name": "Mr. Raju",
+    "publish_date": "Mar 14",
+    "blog_title": "How to get your first job as a self-taught programmer",
+    "book_mark_time": 10
+  },
+  {
+    "id": 2,
+    "img": "https://raw.githubusercontent.com/alamin015/imgHosting/main/img6.png",
+    "author_img": "https://raw.githubusercontent.com/alamin015/imgHosting/main/author/author3.png",
+    "author_name": "Mrs. Setara",
+    "publish_date": "Apr 14",
+    "blog_title": "How to get your first job as a self-taught programmer",
+    "book_mark_time": 15
+  },
+  {
+    "id": 3,
+    "img": "https://raw.githubusercontent.com/alamin015/imgHosting/main/img7.png",
+    "author_img": "https://raw.githubusercontent.com/alamin015/imgHosting/main/author/author1.png",
+    "author_name": "Mina Mostofa",
+    "publish_date": "Dec 14",
+    "blog_title": "How to get your first job as a self-taught programmer",
+    "book_mark_time": 20
+  },
+  {
+    "id": 4,
+    "img": "https://raw.githubusercontent.com/alamin015/imgHosting/main/img3.jpg",
+    "author_img": "https://raw.githubusercontent.com/alamin015/imgHosting/main/author/rsz_me.jpg",
+    "author_name": "AL-amin",
+    "publish_date": "Jan 14",
+    "blog_title": "How to get your first job as a self-taught programmer",
+    "book_mark_time": 30
+  }
+]

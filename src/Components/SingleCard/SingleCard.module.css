@@ -1,0 +1,58 @@
+.singleCard {
+    background: rgba(17, 17, 17, 0.05);
+    padding: 5px 8px 20px;
+    border-radius: 8px;
+}
+
+.img {
+    width: 100%;
+    height: 250px;
+    border-radius: 8px;
+    object-fit: cover;
+}
+.authorInfoAndBookMark {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 25px;
+}
+.authorInfo {
+    display: flex;
+    align-items: center;
+}
+.authorInfo img{
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    object-fit: cover;
+    margin-right: 15px;
+}
+.bookmark {
+    display: flex;
+    align-items: center;
+    font-weight: 500;
+    font-size: 18px;
+}
+.bookmark p {
+    margin-right: 10px;
+}
+.book_icon {
+    display: flex;
+    place-items: center;
+    cursor: pointer;
+}
+
+.blogTitle {
+    color: #111111;
+    font-size: 25px;
+    margin: 16px 0;
+}
+
+.readeMore {
+    color :rgba(17, 17, 17, 0.9);
+}
+.readeMore:hover {
+    cursor: pointer;
+    color : #e73b43;
+    text-decoration: underline;
+}

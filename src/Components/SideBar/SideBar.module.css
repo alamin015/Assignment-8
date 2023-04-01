@@ -1,0 +1,38 @@
+.sideBar {
+    position: fixed;
+    top: 80px;
+    right: 0;
+    height: calc(100vh - 80px);
+    width: 300px;
+    background: rgba(17, 17, 17, 0.05);
+    border-radius: 8px;
+    padding: 20px;
+}
+.totalTimeDiv {
+    padding: 10px;
+    margin-bottom: 20px;
+    background: #fff;
+    border-radius: 8px;
+    border: 1px solid #6047EC;
+}
+.totalTime {
+    color: #6047EC;
+    font-size: 18px;
+    font-weight: normal;
+}
+.totalBookMark {
+    margin-bottom: 15px;
+}
+@media only screen and (max-width: 730px){
+    .sideBar{
+        position: static;
+        top: 0px;
+        left: 0;
+        display: block;
+        width: 98%;
+        height: auto;
+        margin-top: 20px;
+        background: rgba(17, 17, 17, 0.05);
+        border-radius: 8px;
+    }
+}
